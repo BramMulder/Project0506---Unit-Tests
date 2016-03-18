@@ -1,0 +1,29 @@
+C:\Users\brems_000\Documents\Visual Studio 2015\Projects\CSV Reader\bin\Debug\CSV Reader.exe.config
+C:\Users\brems_000\Documents\Visual Studio 2015\Projects\CSV Reader\bin\Debug\CSV Reader.exe
+C:\Users\brems_000\Documents\Visual Studio 2015\Projects\CSV Reader\bin\Debug\CSV Reader.pdb
+C:\Users\brems_000\Documents\Visual Studio 2015\Projects\CSV Reader\obj\Debug\Project0506.csprojResolveAssemblyReference.cache
+C:\Users\brems_000\Documents\Visual Studio 2015\Projects\CSV Reader\obj\Debug\CSV Reader.exe
+C:\Users\brems_000\Documents\Visual Studio 2015\Projects\CSV Reader\obj\Debug\CSV Reader.pdb
+C:\Users\Gebruiker\Desktop\Nieuwe map (2)\Project0506\bin\Debug\CSV Reader.exe.config
+C:\Users\Gebruiker\Desktop\Nieuwe map (2)\Project0506\obj\Debug\CSV Reader.exe
+C:\Users\Gebruiker\Desktop\Nieuwe map (2)\Project0506\obj\Debug\CSV Reader.pdb
+C:\Users\Gebruiker\Desktop\Nieuwe map (2)\Project0506\bin\Debug\CSV Reader.exe
+C:\Users\Gebruiker\Desktop\Nieuwe map (2)\Project0506\bin\Debug\CSV Reader.pdb
+C:\Users\Gebruiker\Desktop\Nieuwe map (2)\Project0506\obj\Debug\Project0506.csprojResolveAssemblyReference.cache
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Project0506\bin\Debug\CSV Reader.exe.config
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Project0506\obj\Debug\CSV Reader.exe
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Project0506\obj\Debug\CSV Reader.pdb
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Project0506\bin\Debug\CSV Reader.exe
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Project0506\bin\Debug\CSV Reader.pdb
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Project0506\obj\Debug\Project0506.csprojResolveAssemblyReference.cache
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\bin\Debug\CSV Reader.exe.config
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\obj\Debug\CSV Reader.exe
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\obj\Debug\CSV Reader.pdb
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\obj\Debug\Project0506.csprojResolveAssemblyReference.cache
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\bin\Debug\CSV Reader.exe
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\bin\Debug\CSV Reader.pdb
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\bin\Debug\Project0506-Documentation.XML
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506 - Unit Tests\bin\Debug\CSV Reader.exe.config
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506 - Unit Tests\bin\Debug\Project0506-Documentation.XML
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506 - Unit Tests\obj\Debug\CSV Reader.exe
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506 - Unit Tests\obj\Debug\CSV Reader.pdb

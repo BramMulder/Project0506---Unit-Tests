@@ -1,0 +1,6 @@
+c:\users\brems_000\documents\visual studio 2015\Projects\CSV Reader\bin\Debug\CSV Reader.exe.config
+c:\users\brems_000\documents\visual studio 2015\Projects\CSV Reader\bin\Debug\CSV Reader.exe
+c:\users\brems_000\documents\visual studio 2015\Projects\CSV Reader\bin\Debug\CSV Reader.pdb
+c:\users\brems_000\documents\visual studio 2015\Projects\CSV Reader\obj\Debug\CSV Reader.csprojResolveAssemblyReference.cache
+c:\users\brems_000\documents\visual studio 2015\Projects\CSV Reader\obj\Debug\CSV Reader.exe
+c:\users\brems_000\documents\visual studio 2015\Projects\CSV Reader\obj\Debug\CSV Reader.pdb

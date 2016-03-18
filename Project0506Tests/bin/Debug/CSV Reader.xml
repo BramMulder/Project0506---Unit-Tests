@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CSV Reader</name>
+    </assembly>
+    <members>
+        <member name="T:Project0506.Converter">
+            <summary>
+            Different Methods which convert values
+            </summary>
+        </member>
+        <member name="M:Project0506.Converter.ConvertToLatLong(System.Double,System.Double)">
+            <summary>
+            Converts Rdx, Rdy coordinates into latitude and longitude coordinates
+            </summary>
+            <param name="x">Rdx Coordinate</param>
+            <param name="y">Rdy Coordinate</param>
+            <returns>String result {0,1} 0 = latitude, 1 = longitude</returns>
+        </member>
+        <member name="M:Project0506.Converter.convertDateTimeConnections">
+            <summary>
+            Retrieves "DateTime" from all the Connections Objects in the connectionsList and splits the values.
+            Then puts the split values, Time and Date in seperate variables and sets them in the objects connections.
+            </summary>
+        </member>
+        <member name="T:Project0506.CSVReader">
+            <summary>
+            Reads CSVFiles with a String reader and puts the info into objects
+            </summary>
+        </member>
+        <member name="M:Project0506.CSVReader.readConnections">
+            <summary>
+            Reads the CSV, splits every line, splits the line a the defined character in "delimiters".
+            Puts every part of the line in a Connections object and adds this object to an ArrayList
+            </summary>
+            <returns>An ArrayList with Connections objects</returns>
+        </member>
+    </members>
+</doc>

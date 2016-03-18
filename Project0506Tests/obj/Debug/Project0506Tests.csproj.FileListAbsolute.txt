@@ -1,0 +1,9 @@
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\Project0506Tests\obj\Debug\Project0506Tests.csprojResolveAssemblyReference.cache
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\Project0506Tests\bin\Debug\Project0506Tests.dll
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\Project0506Tests\bin\Debug\Project0506Tests.pdb
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\Project0506Tests\bin\Debug\CSV Reader.exe
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\Project0506Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\Project0506Tests\bin\Debug\CSV Reader.pdb
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\Project0506Tests\obj\Debug\Project0506Tests.dll
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\Project0506Tests\obj\Debug\Project0506Tests.pdb
+C:\Users\brems_000\Documents\Jaar 2\Periode 2\Analyse 6\Project0506\Project0506Tests\bin\Debug\CSV Reader.xml
